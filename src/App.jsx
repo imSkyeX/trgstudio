@@ -150,7 +150,7 @@ function App() {
       <a href="https://www.instagram.com/triggers.studio/" target="_blank" rel="noopener noreferrer" className='px-16'>
       <GrInstagram className="text-white text-4xl hover:text-gray-400 transition" />
       </a>
-      <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer"  className='px-16'>
+      <a href="https://www.tiktok.com/@trg.dance" target="_blank" rel="noopener noreferrer"  className='px-16'>
       <FaTiktok className="text-white text-4xl hover:text-gray-400 transition" />
       </a>
       </div>
